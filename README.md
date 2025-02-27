@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello World, I'm Phyo Lin Wai, a skilled full-stack developer specializing in React Native for frontend development and C# with .NET Core and SQL Server for backend development. With expertise in building cross-platform mobile applications, Windows applications, and robust backend systems, I have a strong command of modern development frameworks and databases. My ability to integrate React Native with C# Windows applications and backend APIs makes you proficient in delivering seamless and scalable solutions. Whether it's designing efficient database structures, developing RESTful APIs, or creating user-friendly mobile and desktop applications, my bring a comprehensive approach to software development.
+Hello World, I'm Phyo Lin Wai, a full-stack developer with expertise in React Native for frontend development and C# with .NET Core and SQL Server for backend solutions. I have strong experience in building cross-platform mobile applications, Windows applications, and scalable backend systems. My skill set includes designing efficient database architectures, developing RESTful APIs, and integrating frontend and backend technologies seamlessly. With a deep understanding of both mobile and desktop application development, I create robust, high-performance solutions tailored to various business needs.
 
 
 # 💻 Tech Stack:
