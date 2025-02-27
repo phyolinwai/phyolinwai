@@ -4,6 +4,7 @@ I'm a passionate developer with expertise in frontend and backend technologies. 
 - **Frontend**: React Native, JavaScript, TypeScript, Bootstrap, React Router, Figma
 - **Backend**: .NET Core (C#), Ruby, Firebase, Microsoft SQL Server, MongoDB, Redis
 - **Mobile Development**: Java, Kotlin, Swift
+- **Window Forms Application**: Visual C#
 - **Cloud & DevOps**: Azure
 
 
