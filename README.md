@@ -32,8 +32,8 @@ I'm a passionate developer with expertise in frontend and backend technologies. 
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phyolinwai&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phyolinwai&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phyolinwai&show_icons=true&theme=default&hide_border=false&include_all_commits=false&count_private=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phyolinwai&layout=compact&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 📫 Let's Connect
 - **Email**: lin.aritadenki@gmail.com
