@@ -30,7 +30,12 @@ I'm a passionate developer with expertise in frontend and backend technologies. 
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-## 📫 Let's Connect
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phyolinwai&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phyolinwai&layout=compact&theme=dark)
+
+# 📫 Let's Connect
 - **Email**: lin.aritadenki@gmail.com
 
 ⭐️ Feel free to contribute, fork, or reach out for collaborations!
